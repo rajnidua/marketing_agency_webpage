@@ -25,7 +25,8 @@ For Refactoring the existing code. following changes have been made:
 3. comments have been added for each section.
 
 ``` diff
-+URL of the deployed application:```
++URL of the deployed application:
+```
  https://rajnidua.github.io/marketing_agency_webpage/
 
 ![Screenshot of the final webpage](./assets/images/screenshot1.jpeg)
